@@ -1,12 +1,13 @@
 //   Task 1:
 //   1-dən Verilmiş n ədədinə qədər vurma cədvəlini çıxart
 
-// let n = +prompt('enter your number');
+// let n = +prompt('enter your number')
 
-// for (i = 1; i <= n; i++) {
-//     for (k = 1; k <= 10; k++) {
-//         console.log(i + " x " + j + " = " + (i * k));
-//     }
+// for(i=1 ; i<=n ; i++){
+//     for(k=1; k<=10 ; k++){
+//         console.log(i + '*' + k + '=' + (i * k) ) ;
+//     } 
+//     console.log('');
 // }
 
 
@@ -19,7 +20,6 @@
 //   console.log(i);
 //   i--;
 // }
-
 
 //   task 3
 // 2 və 5-ə bölünən ədədləri konsolda çap et.
