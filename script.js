@@ -4,7 +4,7 @@
 // let n = +prompt('enter your number');
 
 // for (i = 1; i <= n; i++) {
-//     for (k = 1; j <= 10; j++) {
+//     for (k = 1; k <= 10; k++) {
 //         console.log(i + " x " + j + " = " + (i * k));
 //     }
 // }
